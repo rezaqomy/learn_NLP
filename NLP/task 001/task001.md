@@ -1,0 +1,5 @@
+- [tokeniztaion](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20001/tokeniztion.ipynb)
+- [remove stopword](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20001/remove_stopwords.ipynb)
+- [stemming and lemmatization](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20001/Stemming_and_Lemmatization.ipynb)
+- [part of speach tagging](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20001/pos_tagging.ipynb)
+- [Named Entity Recognition](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20001/NER.ipynb)
