@@ -1,0 +1,2 @@
+- [NER in english](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20002/ner_in_english.ipynb)
+- [NER in arabic](https://github.com/rezaqomy/learn_NLP/blob/main/NLP/task%20002/ner_in_arabic.ipynb)
